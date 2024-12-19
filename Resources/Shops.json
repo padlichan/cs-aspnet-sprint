@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Name": "The Golden Coin",
+    "Type": "General Store",
+    "Location": "Main Street, Capital City",
+    "Owner": "Marcus Goldfinger",
+    "Description": "A well-known general store offering a variety of goods, from food to adventuring gear.",
+    "Inventory": [],
+    "OpeningHours": "8 AM - 8 PM",
+    "Reputation": "Trusted",
+    "FoundedYear": 50
+  },
+  {
+    "Id": 2,
+    "Name": "Arcturus\u0027s Arcane Emporium",
+    "Type": "Magic Shop",
+    "Location": "Wizard\u0027s District, Silverport",
+    "Owner": "Arcturus the Wise",
+    "Description": "A mystical shop filled with rare and powerful magical items.",
+    "Inventory": [],
+    "OpeningHours": "10 AM - 6 PM",
+    "Reputation": "Respected",
+    "FoundedYear": 112
+  },
+  {
+    "Id": 3,
+    "Name": "The Silver Dagger",
+    "Type": "Blacksmith",
+    "Location": "Forge Alley, Stonehold",
+    "Owner": "Hrogar Ironforge",
+    "Description": "A renowned blacksmith offering expertly crafted weapons and armor.",
+    "Inventory": [],
+    "OpeningHours": "7 AM - 5 PM",
+    "Reputation": "Renowned",
+    "FoundedYear": 85
+  },
+  {
+    "Id": 4,
+    "Name": "The Enchanted Needle",
+    "Type": "Tailor Shop",
+    "Location": "Market Square, Elvenholm",
+    "Owner": "Elyndra Moonweaver",
+    "Description": "A tailor shop known for its enchanted and elegant garments.",
+    "Inventory": [],
+    "OpeningHours": "9 AM - 6 PM",
+    "Reputation": "Esteemed",
+    "FoundedYear": 95
+  },
+  {
+    "Id": 5,
+    "Name": "The Crimson Chalice",
+    "Type": "Tavern",
+    "Location": "Dockside, Seabreeze",
+    "Owner": "Captain Redbeard",
+    "Description": "A popular tavern for sailors, known for its strong drinks and lively atmosphere.",
+    "Inventory": [],
+    "OpeningHours": "12 PM - 2 AM",
+    "Reputation": "Infamous",
+    "FoundedYear": 70
+  },
+  {
+    "Id": 6,
+    "Name": "Riverwood Trader",
+    "Type": "General Store",
+    "Location": "Skyrim",
+    "Owner": "Lucan Valerias",
+    "Description": "A well-known general store offering a variety of goods, from food to adventuring gear.",
+    "Inventory": [],
+    "OpeningHours": "8 AM - 8 PM",
+    "Reputation": "Trusted",
+    "FoundedYear": 6
+  },
+  {
+    "Id": 7,
+    "Name": "nuts and seeds",
+    "Type": "food shop",
+    "Location": "Skyrim",
+    "Owner": "Lucan Valerias",
+    "Description": "A well-known general store offering a variety of goods, from food to adventuring gear.",
+    "Inventory": [],
+    "OpeningHours": "8 AM - 8 PM",
+    "Reputation": "Trusted",
+    "FoundedYear": 6
+  }
+]

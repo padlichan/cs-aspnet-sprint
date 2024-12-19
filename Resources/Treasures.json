@@ -1,0 +1,125 @@
+[
+  {
+      "Id":1,
+    "Name": "Golden Crown",
+    "Type": "Jewelry",
+    "Material": "Gold",
+    "Value": 50000,
+    "Description": "A magnificent crown made of pure gold, adorned with rare gems.",
+    "Weight": "2 kg",
+    "Rarity": "Legendary",
+    "Origin": "Ancient Kingdom"
+  },
+  {
+     "Id":2,
+    "Name": "Neil's Book",
+    "Type": "Book",
+    "Material": "Leather-bound with silver inlay",
+    "Value": 75000,
+    "Description": "An ancient, leather-bound tome containing forgotten knowledge and the cryptic writings of Neil, an eccentric scholar. It is said that reading too much of the book at once can drive a person to madness, but those who master its secrets are rewarded with incredible insight.",
+    "Weight": "1.5 kg",
+    "Rarity": "Mythical",
+    "Origin": "Library of Shadows"
+  },
+  {
+     "Id":3,
+    "Name": "Alice's Football Boots",
+    "Type": "Footwear",
+    "Material": "Dragonhide Leather",
+    "Value": 120000,
+    "Description": "These legendary football boots, once worn by Alice the Undefeated, are made from rare dragonhide leather. They are said to grant the wearer unmatched speed, agility, and the ability to bend the ball in impossible ways. Legends claim that those who wear them can never lose a match—but only if they believe in the magic.",
+    "Weight": "0.8 kg",
+    "Rarity": "Legendary",
+    "Origin": "Tournament of Champions"
+  },
+  {
+     "Id":4,
+    "Name": "Sapphire Necklace",
+    "Type": "Jewelry",
+    "Material": "Silver",
+    "Value": 15000,
+    "Description": "A delicate silver necklace with a large sapphire centerpiece.",
+    "Weight": "0.5 kg",
+    "Rarity": "Rare",
+    "Origin": "Royal Family"
+  },
+  {
+     "Id":5,
+    "Name": "Ancient Scroll",
+    "Type": "Artifact",
+    "Material": "Papyrus",
+    "Value": 8000,
+    "Description": "An ancient scroll containing powerful spells written in an extinct language.",
+    "Weight": "0.2 kg",
+    "Rarity": "Epic",
+    "Origin": "Forgotten Empire"
+  },
+  {
+     "Id":6,
+    "Name": "Dragon's Fang Dagger",
+    "Type": "Weapon",
+    "Material": "Dragon Fang",
+    "Value": 30000,
+    "Description": "A deadly dagger carved from the fang of a dragon, rumored to be unbreakable.",
+    "Weight": "0.3 kg",
+    "Rarity": "Legendary",
+    "Origin": "Dragon Slayers Guild"
+  },
+  {
+     "Id":7,
+    "Name": "Bag of Rare Coins",
+    "Type": "Currency",
+    "Material": "Gold and Silver",
+    "Value": 10000,
+    "Description": "A small leather bag filled with coins from ancient civilizations.",
+    "Weight": "1 kg",
+    "Rarity": "Uncommon",
+    "Origin": "Lost Merchant Ship"
+  },
+  {
+     "Id":8,
+    "Name": "Ruby-Studded Chalice",
+    "Type": "Relic",
+    "Material": "Gold",
+ 
+    "Value": 25000,
+    "Description": "A ceremonial chalice studded with rubies, used in ancient rituals.",
+    "Weight": "1.5 kg",
+    "Rarity": "Epic",
+    "Origin": "Temple of the Sun"
+  },
+  {
+     "Id":9,
+    "Name": "Enchanted Amulet",
+    "Type": "Jewelry",
+    "Material": "Bronze",
+    "Value": 12000,
+    "Description": "An amulet with mystical powers, said to protect the wearer from harm.",
+    "Weight": "0.3 kg",
+    "Rarity": "Epic",
+    "Origin": "Mystic Forest"
+  },
+  {
+     "Id":10,
+    "Name": "Pirate's Treasure Chest",
+    "Type": "Container",
+    "Material": "Wood and Iron",
+    "Value": 40000,
+    "Description": "A large chest filled with gold, gems, and rare artifacts, rumored to be cursed.",
+    "Weight": "30 kg",
+    "Rarity": "Legendary",
+    "Origin": "Sunken Pirate Ship"
+  },
+  {
+     "Id":11,
+    "Name": "Silver Chalice of the Moon",
+    "Type": "Relic",
+    "Material": "Silver",
+    "Value": 18000,
+    "Description": "A beautifully crafted silver chalice said to hold lunar powers.",
+    "Weight": "1 kg",
+    "Rarity": "Rare",
+    "Origin": "Temple of the Moon"
+  }
+]
+
